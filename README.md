@@ -1,0 +1,1 @@
+This repository contains data inspired by Walmart's retail operations, primarily used for sales forecasting, inventory analysis, and promotional impact evaluation. The dataset captures historical sales across multiple stores and departments, along with key external features that influence sales patterns.
